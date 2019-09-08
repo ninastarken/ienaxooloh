@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gicahxoozi.takeabyte.io/sitemap.xml
